@@ -1,0 +1,1 @@
+select * from geo_employees where length(FIRST_NAME)>=8;

@@ -1,0 +1,1 @@
+select concat(first_name, " ", last_name ) as "Name", salary as "Salary", salary*15/100 as "TAX" from geo_employees;

@@ -1,0 +1,1 @@
+update geo_employees set PHONE_NUMBER=replace(PHONE_NUMBER,'590', '111') WHERE PHONE_NUMBER LIKE "%590%";

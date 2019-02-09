@@ -1,0 +1,1 @@
+update geo_employees set SALARY=8000 where ID=105 AND SALARY<5000;

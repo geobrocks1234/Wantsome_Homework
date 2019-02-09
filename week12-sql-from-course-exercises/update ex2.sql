@@ -1,0 +1,1 @@
+update geo_employees set EMAIL=CONCAT(EMAIL,'@wantsome.ro');
